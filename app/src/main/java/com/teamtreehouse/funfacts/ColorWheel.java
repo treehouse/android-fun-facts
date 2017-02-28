@@ -23,8 +23,9 @@ public class ColorWheel {
             "#e0ab18",
             "#637a91",
             "#f092b0",
+            "#8b4513", // bronze
             "#b7c0c7",
-            "#8b4513" // bronze
+            "#ddca8b" // gold
     };
 
     // Method (abilities: things the object can do)
