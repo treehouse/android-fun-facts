@@ -23,7 +23,10 @@ public class ColorWheel {
             "#e0ab18",
             "#637a91",
             "#f092b0",
-            "#b7c0c7"
+            "#8b4513",
+            "#b7c0c7",
+            "#ddca8b"
+
     };
 
     // Method (abilities: things the object can do)
